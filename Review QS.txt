@@ -1,0 +1,10 @@
+Review Quetions
+
+1. What is //?
+- single line comment
+
+2.What is %?
+- Modulus
+
+3.What is.?
+- Concatenation
